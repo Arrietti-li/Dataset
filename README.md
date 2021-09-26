@@ -1,4 +1,4 @@
-# Dataset
+# Data Availability
 Session Recommendation Model Based on Context-aware and Gated Graph Neural Network
 
 In this paper, we used two datasets, Yoochoose dataset and Diginetica dataset to support the findings of this study.
